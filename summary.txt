@@ -1,0 +1,31 @@
+PRODUCT FEEDBACK ANALYSIS - ZOMATO
+Executive Summary - June 2026
+
+Analysis of 25 user reviews reveals four high-priority issue clusters that together
+account for 24 of 25 reviews mentioning at least one problem.
+
+Customer support is the single biggest driver of dissatisfaction (9 mentions). The
+core failure isn't the presence of problems, but that the resolution loop breaks:
+tickets close without confirmation, and photo evidence submitted by customers is
+dismissed without explanation. This compounds every other issue on this list, since
+a bad delivery or wrong order becomes a bad experience only when support fails to
+fix it.
+
+Delivery & logistics (6 mentions) and order accuracy (4 mentions) point to a shared
+root cause: process breakdowns are happening upstream (at the pickup/packing and
+drop stages) with no verification layer to catch them before the customer is
+affected.
+
+Payments & refunds (5 mentions) shows a pattern of the company being fast to charge
+but slow to reverse - a trust issue that compounds support frustration since these
+are often the same complaint threads.
+
+RECOMMENDED PRIORITY ORDER FOR Q1:
+1. Support resolution SLA + human escalation trigger
+   (highest leverage - fixes downstream frustration across all other categories)
+2. Photo/OTP proof-of-drop for delivery
+3. Auto-refund SLA for cancelled/unconfirmed orders
+4. Packer-side photo verification for order accuracy
+
+UI/UX and pricing transparency are lower priority - they're friction points, not
+trust-breakers, and can move to Q2.

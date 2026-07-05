@@ -1,0 +1,51 @@
+ZOMATO PRODUCT FEEDBACK ANALYSIS - THEME BREAKDOWN
+June 2026
+
+THEME: Customer Support
+Reviews: 1, 2, 3, 5, 10, 17, 18, 20, 25
+Count: 9
+Top Pain Point: Tickets get closed (by human or AI) without actual resolution, and photo/proof evidence is dismissed with no explanation
+Suggested Fix: Auto-escalate to a human agent if an AI bot response is rejected twice; block ticket closure until the customer confirms resolution
+Priority: High
+
+THEME: Delivery & Logistics
+Reviews: 2, 7, 9, 13, 15, 21
+Count: 6
+Top Pain Point: Food goes missing/left unattended by delivery agents, or arrives cold because orders are clubbed with others
+Suggested Fix: Require photo/OTP proof-of-drop at doorstep; auto-detect and prevent clubbing when it risks exceeding delivery-time SLA
+Priority: High
+
+THEME: Payments & Refunds
+Reviews: 4, 8, 11, 14, 23
+Count: 5
+Top Pain Point: Money deducted for cancelled/unconfirmed orders or promised refunds never credited
+Suggested Fix: SLA-based auto-refund (e.g., auto-credit if unresolved in 48 hrs) + a real-time refund status tracker
+Priority: High
+
+THEME: Order Accuracy (wrong/missing items)
+Reviews: 3, 5, 6, 25
+Count: 4
+Top Pain Point: Wrong dish or missing items delivered, with photo evidence ignored during complaints
+Suggested Fix: Mandatory packer-side item photo checklist matched against order; auto-approve refunds when customer photo contradicts packing photo
+Priority: High
+
+THEME: UI/UX
+Reviews: 12, 16, 22
+Count: 3
+Top Pain Point: Reordering past meals takes too many clicks despite otherwise clean design
+Suggested Fix: Add a one-tap "Reorder" shortcut on the home screen/order history
+Priority: Medium
+
+THEME: Pricing
+Reviews: 19
+Count: 1
+Top Pain Point: App prices run higher than in-store despite good restaurant variety
+Suggested Fix: Show a transparent price breakdown (platform fee vs. restaurant markup)
+Priority: Low
+
+THEME: Positive/Feature Callouts
+Reviews: 24 (Instamart), 16 & 22 (tracking)
+Count: 3
+Top Pain Point: N/A - these are strengths, not pain points
+Suggested Fix: Continue investing in tracking accuracy and cross-category integration
+Priority: N/A

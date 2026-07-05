@@ -1,0 +1,77 @@
+ZOMATO USER REVIEWS - SAMPLE DATASET (25 reviews)
+Collected for Product Feedback Analysis project - June 2026
+
+1. Rating: 1/5
+Order was marked delivered but food never arrived. Support ignored my refund request for days.
+
+2. Rating: 2/5
+Delivery agent said he'd have an accident excuse and then went silent. No resolution from support.
+
+3. Rating: 1/5
+Received a completely different dish than what I ordered. Photos submitted as proof were ignored.
+
+4. Rating: 1/5
+Cancelled my order due to a genuine issue and they still charged the full amount.
+
+5. Rating: 2/5
+Only one of three items I paid for actually arrived. Zomato said nothing could be done.
+
+6. Rating: 1/5
+Ordered vegetarian food on a fasting day and got non-veg from a totally different restaurant.
+
+7. Rating: 2/5
+Packaging was damaged and half the drink had spilled out by the time it arrived.
+
+8. Rating: 1/5
+Reservation deposit was charged but the restaurant had no record of my booking at all.
+
+9. Rating: 3/5
+Food usually arrives fine but delivery times feel randomly inflated even for nearby restaurants.
+
+10. Rating: 1/5
+Support chat closes the conversation before actually resolving anything. Extremely frustrating experience.
+
+11. Rating: 2/5
+Money got deducted for an order that was never confirmed by the restaurant.
+
+12. Rating: 3/5
+App interface is clean, but finding my past orders to reorder is more clicks than it should be.
+
+13. Rating: 1/5
+Delivery partner left the food on the road instead of at the doorstep, and it went missing.
+
+14. Rating: 2/5
+Refund was promised within two hours after a wrongful cancellation but never actually credited.
+
+15. Rating: 4/5
+Delivery was fast this time and the food arrived hot, better than my last few orders.
+
+16. Rating: 5/5
+Really smooth experience - order tracking was accurate down to the minute.
+
+17. Rating: 1/5
+Multiple complaints raised about a leaking food container with no compensation offered.
+
+18. Rating: 2/5
+Customer care told me they'd "inform the restaurant" and then closed my ticket immediately.
+
+19. Rating: 4/5
+Great restaurant variety in my area, though prices on the app run higher than in-store.
+
+20. Rating: 1/5
+New AI-based support agent just loops the same responses instead of solving the issue.
+
+21. Rating: 3/5
+Orders keep getting clubbed with other deliveries, so food arrives cold by the time it's here.
+
+22. Rating: 5/5
+Easy to use, good discounts, and the live map tracking is genuinely useful.
+
+23. Rating: 2/5
+Payment got deducted twice for the same order and refund is still pending after a week.
+
+24. Rating: 4/5
+Instamart integration for groceries alongside food ordering is a nice touch.
+
+25. Rating: 1/5
+Filed a complaint about missing items with proof and got a flat denial with no explanation.
